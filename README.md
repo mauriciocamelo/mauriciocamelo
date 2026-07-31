@@ -25,6 +25,5 @@
     <a><img src="https://img.shields.io/badge/Express.JS-4C4C4C?style=for-the-badge&logo=express&logoColor=white" target="_blank"></a>
     <a><img src="https://img.shields.io/badge/React.JS-61DAFB?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
   </div>
-  <a href="https://www.instagram.com/m4urok/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/mauriciocamelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
